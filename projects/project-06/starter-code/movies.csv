@@ -1,0 +1,102 @@
+	num_votes	rating	tconst	title	year	genre	runtime
+0	1659650	9.3	tt0111161	The Shawshank Redemption	1994	[Crime, Drama]	8520
+1	1135992	9.2	tt0068646	The Godfather	1972	[Crime, Drama]	10500
+2	775849	9.0	tt0071562	The Godfather: Part II	1974	[Crime, Drama]	12120
+3	1645344	9.0	tt0468569	The Dark Knight	2008	[Action, Crime, Thriller]	9120
+4	849066	8.9	tt0108052	Schindler's List	1993	[Biography, Drama, History]	11700
+5	437763	8.9	tt0050083	12 Angry Men	1957	[Crime, Drama]	5760
+6	1300701	8.9	tt0110912	Pulp Fiction	1994	[Crime, Drama]	9240
+7	1194329	8.9	tt0167260	The Lord of the Rings: The Return of the King	2003	[Adventure, Drama, Fantasy]	12060
+8	494757	8.9	tt0060196	The Good, the Bad and the Ugly	1966	[Western]	9660
+9	1321370	8.9	tt0137523	Fight Club	1999	[Drama]	8340
+10	1217791	8.8	tt0120737	The Lord of the Rings: The Fellowship of the Ring	2001	[Adventure, Drama, Fantasy]	10680
+11	821075	8.8	tt0080684	Star Wars: Episode V - The Empire Strikes Back	1980	[Action, Adventure, Fantasy, Sci-Fi]	7440
+12	1224588	8.8	tt0109830	Forrest Gump	1994	[Drama, Romance]	8520
+13	1438914	8.8	tt1375666	Inception	2010	[Action, Mystery, Sci-Fi, Thriller]	8880
+14	1080496	8.7	tt0167261	The Lord of the Rings: The Two Towers	2002	[Action, Adventure, Drama, Fantasy]	10740
+15	668490	8.7	tt0073486	One Flew Over the Cuckoo's Nest	1975	[Drama]	7980
+16	715454	8.7	tt0099685	Goodfellas	1990	[Biography, Crime, Drama]	8760
+17	1195945	8.7	tt0133093	The Matrix	1999	[Action, Sci-Fi]	8160
+18	225349	8.7	tt0047478	Seven Samurai	1954	[Action, Adventure, Drama]	9480
+19	894688	8.7	tt0076759	Star Wars	1977	[Action, Adventure, Fantasy, Sci-Fi]	7260
+20	524531	8.7	tt0317248	City of God	2002	[Crime, Drama]	7800
+21	1003873	8.6	tt0114369	Se7en	1995	[Crime, Drama, Mystery, Thriller]	7620
+22	869112	8.6	tt0102926	The Silence of the Lambs	1991	[Crime, Drama, Thriller]	7080
+23	271004	8.6	tt0038650	It's a Wonderful Life	1946	[Drama, Family, Fantasy, Romance]	7800
+24	727765	8.6	tt0114814	The Usual Suspects	1995	[Crime, Drama, Mystery, Thriller]	6360
+25	410794	8.6	tt0118799	Life Is Beautiful	1997	[Comedy, Drama, Romance, War]	6960
+26	711735	8.6	tt0110413	Léon: The Professional	1994	[Crime, Drama, Thriller]	6600
+27	212192	8.6	tt0064116	Once Upon a Time in the West	1968	[Western]	8700
+28	407925	8.6	tt0245429	Spirited Away	2001	[Animation, Adventure, Family, Fantasy]	7500
+29	864288	8.6	tt0120815	Saving Private Ryan	1998	[Action, Drama, War]	10140
+30	769579	8.6	tt0120586	American History X	1998	[Crime, Drama]	6060
+31	898494	8.6	tt0816692	Interstellar	2014	[Adventure, Drama, Sci-Fi]	10140
+32	381588	8.6	tt0034583	Casablanca	1942	[Drama, Romance, War]	6120
+33	414203	8.5	tt0054215	Psycho	1960	[Horror, Mystery, Thriller]	6540
+34	105727	8.6	tt0021749	City Lights	1931	[Comedy, Drama, Romance]	5220
+35	649819	8.5	tt0082971	Raiders of the Lost Ark	1981	[Action, Adventure]	6900
+36	490435	8.6	tt1675434	The Intouchables	2011	[Biography, Comedy, Drama]	6720
+37	310415	8.5	tt0047396	Rear Window	1954	[Mystery, Thriller]	6720
+38	139681	8.6	tt0027977	Modern Times	1936	[Comedy, Drama]	5220
+39	766062	8.5	tt0120689	The Green Mile	1999	[Crime, Drama, Fantasy, Mystery]	11340
+40	732119	8.5	tt0103064	Terminator 2: Judgment Day	1991	[Action, Sci-Fi]	9180
+41	488024	8.5	tt0253474	The Pianist	2002	[Biography, Drama, War]	9000
+42	857221	8.5	tt0407887	The Departed	2006	[Crime, Drama, Thriller]	9060
+43	716684	8.5	tt0088763	Back to the Future	1985	[Adventure, Comedy, Sci-Fi]	6960
+44	381669	8.5	tt2582802	Whiplash	2014	[Drama, Music]	6420
+45	965101	8.5	tt0172495	Gladiator	2000	[Action, Drama]	9300
+46	831086	8.5	tt0209144	Memento	2000	[Mystery, Thriller]	6780
+47	443692	8.5	tt0078788	Apocalypse Now	1979	[Drama, War]	9180
+48	826433	8.5	tt0482571	The Prestige	2006	[Drama, Mystery, Sci-Fi, Thriller]	7800
+49	629719	8.5	tt0110357	The Lion King	1994	[Animation, Adventure, Drama, Family, Musical]	5340
+50	337003	8.5	tt0057012	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	1964	[Comedy]	5700
+51	137021	8.5	tt0043014	Sunset Blvd.	1950	[Drama, Film-Noir]	6600
+52	553404	8.5	tt0078748	Alien	1979	[Horror, Sci-Fi]	7020
+53	134454	8.5	tt0032553	The Great Dictator	1940	[Comedy, Drama, War]	7500
+54	255003	8.5	tt0405094	The Lives of Others	2006	[Drama, Thriller]	8220
+55	149129	8.5	tt0095765	Cinema Paradiso	1988	[Drama]	9300
+56	933567	8.5	tt1853728	Django Unchained	2012	[Drama, Western]	9900
+57	597984	8.4	tt0081505	The Shining	1980	[Drama, Horror]	8640
+58	118583	8.5	tt0050825	Paths of Glory	1957	[Drama, War]	5280
+59	134540	8.5	tt0095327	Grave of the Fireflies	1988	[Animation, Drama, War]	5340
+60	702456	8.4	tt0910970	WALL·E	2008	[Animation, Adventure, Family, Sci-Fi]	5880
+61	1122878	8.5	tt1345836	The Dark Knight Rises	2012	[Action, Thriller]	9840
+62	808988	8.4	tt0169547	American Beauty	1999	[Drama]	7320
+63	480682	8.4	tt0090605	Aliens	1986	[Action, Horror, Sci-Fi]	9240
+64	216768	8.4	tt0119698	Princess Mononoke	1997	[Animation, Adventure, Fantasy]	8040
+65	348814	8.4	tt0364569	Oldboy	2003	[Drama, Mystery, Thriller]	7200
+66	293390	8.4	tt0033467	Citizen Kane	1941	[Drama, Mystery]	7140
+67	216999	8.4	tt0053125	North by Northwest	1959	[Adventure, Crime, Mystery, Thriller]	8160
+68	217031	8.4	tt0087843	Once Upon a Time in America	1984	[Crime, Drama]	8340
+69	165618	8.4	tt0082096	Das Boot	1981	[Adventure, Drama, Thriller, War]	14340
+70	243861	8.4	tt0052357	Vertigo	1958	[Mystery, Romance, Thriller]	7740
+71	667524	8.4	tt0086190	Star Wars: Episode VI - Return of the Jedi	1983	[Action, Adventure, Fantasy, Sci-Fi]	7860
+72	61422	8.4	tt0051201	Witness for the Prosecution	1957	[Crime, Drama, Mystery, Thriller]	6960
+73	97373	8.4	tt0022100	M	1931	[Crime, Drama, Mystery, Thriller]	5940
+74	651864	8.4	tt0105236	Reservoir Dogs	1992	[Crime, Drama, Thriller]	5940
+75	525010	8.4	tt0211915	Amélie	2001	[Comedy, Romance]	7320
+76	724509	8.4	tt0112573	Braveheart	1995	[Biography, Drama, History, War]	10680
+77	563422	8.4	tt0180093	Requiem for a Dream	2000	[Drama]	6120
+78	547452	8.4	tt0066921	A Clockwork Orange	1971	[Crime, Drama, Sci-Fi]	8160
+79	496856	8.3	tt0075314	Taxi Driver	1976	[Crime, Drama]	6780
+80	95782	8.4	tt0036775	Double Indemnity	1944	[Crime, Drama, Film-Noir, Mystery, Thriller]	6420
+81	532589	8.3	tt0435761	Toy Story 3	2010	[Animation, Adventure, Comedy, Family, Fantasy]	6180
+82	210810	8.4	tt0056592	To Kill a Mockingbird	1962	[Crime, Drama]	7740
+83	189319	8.4	tt0056172	Lawrence of Arabia	1962	[Adventure, Biography, Drama, History, War]	13620
+84	654012	8.3	tt0338013	Eternal Sunshine of the Spotless Mind	2004	[Drama, Romance, Sci-Fi]	6480
+85	475630	8.3	tt0093058	Full Metal Jacket	1987	[Drama, War]	6960
+86	266023	8.3	tt0086879	Amadeus	1984	[Biography, Drama, History, Music]	9600
+87	172420	8.3	tt0070735	The Sting	1973	[Comedy, Crime, Drama]	7740
+88	418988	8.3	tt0062622	2001: A Space Odyssey	1968	[Adventure, Mystery, Sci-Fi]	8940
+89	92454	8.3	tt0040522	Bicycle Thieves	1948	[Drama]	5340
+90	147339	8.3	tt0045152	Singin' in the Rain	1952	[Comedy, Musical, Romance]	6180
+91	591448	8.3	tt0208092	Snatch.	2000	[Comedy, Crime]	6120
+92	609372	8.3	tt0114709	Toy Story	1995	[Animation, Adventure, Comedy, Family, Fantasy]	4860
+93	376183	8.3	tt0071853	Monty Python and the Holy Grail	1975	[Adventure, Comedy, Fantasy]	5460
+94	866240	8.3	tt0361748	Inglourious Basterds	2009	[Adventure, Drama, War]	9180
+95	65371	8.4	tt0012349	The Kid	1921	[Comedy, Drama, Family]	4080
+96	408118	8.3	tt0119488	L.A. Confidential	1997	[Crime, Drama, Mystery, Thriller]	8280
+97	153805	8.3	tt0059578	For a Few Dollars More	1965	[Western]	7920
+98	107261	8.3	tt0053604	The Apartment	1960	[Comedy, Drama, Romance]	7500
+99	100620	8.3	tt0042876	Rashomon	1950	[Crime, Drama]	5280
+100	506211	8.3	tt0097576	Indiana Jones and the Last Crusade	1989	[Action, Adventure, Fantasy]	7620
